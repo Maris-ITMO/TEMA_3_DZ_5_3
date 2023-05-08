@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>TEMA_3_DZ_5_3</Name>
+		<Assembly>"C:\Program Files\RevitAPITraining\TEMA_3_DZ_5_3.dll"</Assembly>
+		<AddInId>D5DE98F3-603F-4E53-9EFA-262BDA885251</AddInId>
+		<FullClassName>TEMA_3_DZ_5_3.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>TEMA_3_DZ_5_3 </Text>
+	</AddIn>
+</RevitAddIns>
